@@ -1,0 +1,12 @@
+﻿  PingPongGame.cpp
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(84,46): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(84,46): warning C4244:         with
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(84,46): warning C4244:         [
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(84,46): warning C4244:             T=float
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(84,46): warning C4244:         ]
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(91,47): warning C4244: '=' : conversion de 'double' en 'T', perte possible de données
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(91,47): warning C4244:         with
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(91,47): warning C4244:         [
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(91,47): warning C4244:             T=float
+C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\PingPongGame\PingPongGame.cpp(91,47): warning C4244:         ]
+  PingPongGame.vcxproj -> C:\Users\AHMED AZIZ\Desktop\Mes Programmes\Game\PingPongGame\x64\Debug\PingPongGame.exe
